@@ -84,6 +84,9 @@ A: If you're on Home edition, it is likely that it can be upgraded to Pro. Most 
 People which already have Pro, but not activated, can skip to [this step](https://gist.github.com/Minionguyjpro/d913b3931e844ad8ad9a758a4aca4b63#activating-windows-pro).
 ## I Get a Notification: ``Your Windows license will expire soon`` or Something That way. What Do I Do?
 Don't worry. You need to run the script again, but a recommendation: **For users which used this guide to activate with the first or second method and now get this message everytime, use the third method to activate it forever. But it requires a Microsoft account. When using Windows 8 or Windows 8.1, the third method won't work.**
+
+https://learn.microsoft.com/en-us/windows-server/get-started/kms-client-activation-keys
+
 ## Getting Started
 1. What you first need to do is open CMD (Command Prompt) as Administrator by pressing <kbd><img src="https://svgshare.com/i/dg_.svg" width="11"></kbd> + <kbd>R</kbd>.
 
